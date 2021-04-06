@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dharmjeet Vaishnav</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 
-- 🔭 I’m currently working on **react projects**
+- 🔭 I’m currently working on **Reactjs Projects**
 
 - 👨‍💻 All of my projects are available at [dharmjeet.com](https://dharmjeet.com)
 
