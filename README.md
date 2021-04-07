@@ -2,7 +2,8 @@
 <h3 align="center">A passionate full stack developer from India</h3>
 <br/>
 
-![Hero Image](https://github.com/dharmjeetvaishnav/dharmjeetvaishnav/blob/main/Web%20Developer_Monochromatic.png)
+
+<p align="right"><img src="https://github.com/dharmjeetvaishnav/dharmjeetvaishnav/blob/main/Web%20Developer_Monochromatic.png" /></p>
 
 - 🔭 I’m currently working on **Reactjs Projects**
 
