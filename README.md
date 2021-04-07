@@ -2,6 +2,8 @@
 <h3 align="center">A passionate full stack developer from India</h3>
 <br/>
 
+![Hero Image](https://github.com/dharmjeetvaishnav/dharmjeetvaishnav/blob/main/Web%20Developer_Monochromatic.png)
+
 - 🔭 I’m currently working on **Reactjs Projects**
 
 - 👨‍💻 All of my projects are available at [dharmjeet.com](https://dharmjeet.com)
