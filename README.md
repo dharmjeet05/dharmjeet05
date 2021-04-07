@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **dharmjeetvaishnav@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Talk with me, I am kinda awesome:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/dharmjeet-vaishnav-0772511a9" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="dharmjeet-vaishnav-0772511a9" height="30" width="40" /></a>
 <a href="https://instagram.com/dharmjeetvaishnav" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="dharmjeetvaishnav" height="30" width="40" /></a>
