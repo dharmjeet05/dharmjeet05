@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **Reactjs Projects**
 
-- 👨‍💻 All of my projects are available at [dharmjeet.com](https://dharmjeet.com)
+- 👨‍💻 All of my projects are available at **[dharmjeet.com]**(https://dharmjeet.com)
 
 - 📫 How to reach me **dharmjeetvaishnav@gmail.com**
 
