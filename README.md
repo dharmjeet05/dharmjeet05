@@ -10,8 +10,8 @@
 
 <h3 align="left">Talk with me, I am kinda awesome:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/dharmjeetvaishnav" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="dharmjeetvaishnav" height="30" width="40" /></a>
-<a href="https://instagram.com/dharmjeetvaishnav" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="dharmjeetvaishnav" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/dharmjeet05" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="dharmjeetvaishnav" height="30" width="40" /></a>
+<a href="https://instagram.com/dharmjeet05" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="dharmjeetvaishnav" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
