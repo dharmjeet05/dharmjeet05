@@ -2,7 +2,7 @@
 <h3 align="center">A passionate full stack developer from India</h3>
 <br/>
 
-- 🔭 I’m currently working on **React & Django Projects**
+- 🔭 I’m currently working on **React & MERN Projects**
 
 - 👨‍💻 All of my projects are available at **https://dharmjeet.com**
 
