@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Dharmjeet Vaishnav</h1>
 <h3 align="center">A full stack developer with a simple heart</h3>
 
+</br></br>
+
 - 🔭 I’m currently working on **MERN and ASP.NET projects**
 
 - 👨‍💻 All of my projects are available at [dharmjeet.com](dharmjeet.com)
