@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **MERN and ASP.NET projects**
 
-- 👨‍💻 All of my projects are available at [dharmjeet.com](dharmjeet.com)
+- 👨‍💻 All of my projects are available at **dharmjeet.com**(dharmjeet.com)
 
 - 📫 How to reach me **dharmjeetvaishnav@gmail.com**
 
