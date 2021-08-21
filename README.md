@@ -3,7 +3,7 @@
 
 <br/>
 
-- 🔭 I’m currently working on **React and ASP.NET projects**
+- 🔭 I’m currently working on **Angular and ASP.NET projects**
 
 - 👨‍💻 All of my projects are available at **[dharmjeet.com](https://dharmjeet.com)**
 
