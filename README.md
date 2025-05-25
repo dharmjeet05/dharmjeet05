@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **React projects**
 
-- 👨‍💻 All of my projects are available at [dharmjeet.com](dharmjeet.com)
+- 👨‍💻 All of my projects are available at ([dharmjeet.com](https://www.dharmjeet.com/))
 
 - 📫 How to reach me **dharmjeetvaishnav@gmail.com**
 
