@@ -7,5 +7,5 @@ Passionate about clean UI, performance, and scalable architecture.
 
 ## 🚀 Brands I’m Building
 
-- **Dharmjeet** — Personal Portfolio & Developer Brand  
+- **Dharmjeet** — It's just me 😅
   🌐 https://dharmjeet.com
