@@ -7,5 +7,4 @@ Passionate about clean UI, performance, and scalable architecture.
 
 ## 🚀 Brands I’m Building
 
-- **Dharmjeet** — It's just me 😅
-  🌐 https://dharmjeet.com
+- **Dharmjeet** — It's just me 😅 https://dharmjeet.com
