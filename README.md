@@ -9,4 +9,4 @@ Passionate about clean UI, performance, and scalable architecture.
 
 - **Dharmjeet** — It's just me 😅 https://dharmjeet.com
 
-- **DevFlowDay** — Track Your Developer Day Effortlessly [https://dharmjeet.com](https://devflowday.vercel.app/)
+- **DevFlowDay** — Track Your Developer Day Effortlessly [https://devflowday.vercel.app](https://devflowday.vercel.app/)
