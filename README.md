@@ -9,4 +9,4 @@ Passionate about clean UI, performance, and scalable architecture.
 
 - **Dharmjeet** — It's just me 😅 https://dharmjeet.com
 
-- **DevDayLog** — Track Your Developer Day Effortlessly [https://devdaylog.vercel.app](https://devdaylog.vercel.app/)
+- **DevDayLog** — Track Your Developer Day Effortlessly [https://devdaylog.com](https://devdaylog.com/)
