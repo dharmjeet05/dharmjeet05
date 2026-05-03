@@ -35,9 +35,3 @@ Fullstack Developer with 4+ years of experience building end-to-end web products
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" />
   </a>
 </p>
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=dharmjeet05&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-</p>
